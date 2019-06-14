@@ -4,7 +4,7 @@ import 'firebase/database'
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-    apiKey: "youurapigooglekey",
+    apiKey: "AIzaSyBH6wvHTL779JnXD8U3rVsLb2TE5uAFygI",
     authDomain: "m-city-53916.firebaseapp.com",
     databaseURL: "https://m-city-53916.firebaseio.com",
     projectId: "m-city-53916",
