@@ -42,7 +42,6 @@ export default class Enroll extends Component {
 
         newFormdata[element.id] = newElement;
 
-        console.log(newFormdata);
 
         this.setState({
             formError:false,
