@@ -119,7 +119,7 @@ export default class Enroll extends Component {
                             />
                             {this.state.formError ? 
                             <div className="error_label">
-                                Something is wrong, try again
+                                Something is wrong, try again.
                             </div> 
                             : null}
                             <div className="success_label">{this.state.formSuccess}</div>
